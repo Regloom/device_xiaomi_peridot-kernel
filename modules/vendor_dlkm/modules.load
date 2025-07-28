@@ -156,6 +156,7 @@ gh_panic_notifier.ko
 qcom-spmi-adc5-gen3.ko
 qcom-vadc-common.ko
 qti-glink-adc.ko
+qti-regmap-debugfs.ko
 nvmem_qfprom.ko
 mpam_arch.ko
 mpam_policy.ko
